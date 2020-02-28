@@ -41,7 +41,7 @@
 
   - api에서 title을 가져와서 (다른 것을 추가로 가져와도 됩니다) 화면에 출력합니다. (형식 자유)
 
-  - 비동기 처리
+  - Api를 사용하여 데이터 가져오기 & async/await을 사용하여 비동기 처리하기
 
   - 사용 API: https://yts.mx/api/v2/list_movies.json?limit=50
 

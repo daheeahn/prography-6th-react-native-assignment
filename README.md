@@ -10,9 +10,7 @@
 
 - 구현 예시 (이 Repository에 포함된 동영상도 참고)
 
-<img src="https://user-images.githubusercontent.com/38369729/75458490-39b5d700-59c1-11ea-8af3-f0ad51862868.png" width="300" height="600">
-  <img src="https://user-images.githubusercontent.com/38369729/75459437-c1e8ac00-59c2-11ea-8958-4e366e3a4971.png" width="300" height="600">
-  <img src="https://user-images.githubusercontent.com/38369729/75458500-3cb0c780-59c1-11ea-8b42-b033c2b7f38e.png" width="300" height="600">
+<img width="1329" alt="Apps" src="https://user-images.githubusercontent.com/38369729/75601497-0bd6ac80-5aff-11ea-9c23-657ac5b94393.png">
 
 - Home에서 화면 이동
 
